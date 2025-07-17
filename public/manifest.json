@@ -1,0 +1,25 @@
+{
+  "short_name": "Katrix",
+  "name": "Katrix - Soluciones de Inteligencia de Datos",
+  "icons": [
+    {
+      "src": "image.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "image.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "image.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f9195",
+  "background_color": "#04141c"
+}
